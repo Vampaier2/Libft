@@ -9,8 +9,8 @@ protecting some leaks that the original functions may have.
 | Libft          |     ✅     |      ❌     |     ✅     |
 | Libft_protected|     🚧     |      ✅     |     🚧     |
 
-✅ - accepted
+✅ - Accepted
 
-❌ - not allowed/might have errors
+❌ - Not allowed/might have errors
 
-🚧 - might complain because it isn't true to the source functions
+🚧 - **Might** complain because it isn't true to the source functions
