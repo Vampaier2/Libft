@@ -13,4 +13,4 @@ protecting some leaks that the original functions may have.
 
 ❌ - Not allowed/might have errors
 
-🚧 - **Might** complain because it isn't true to the source functions
+🚧 - **Might** complain, because it isn't true to the source functions
