@@ -10,5 +10,7 @@ protecting some leaks that the original functions may have.
 | Libft_protected|     🚧     |      ✅     |     🚧     |
 
 ✅ - accepted
+
 ❌ - not allowed/might have errors
+
 🚧 - might complain because it isn't true to the source functions
